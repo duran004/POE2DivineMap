@@ -40,7 +40,7 @@ Uygulama aşağıdaki su haritalarını tespit eder:
 ### Adım 1: Repository'yi İndirin
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/duran004/POE2DivineMap
 cd "poe2 maps"
 ```
 
