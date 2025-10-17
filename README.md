@@ -1,5 +1,7 @@
 # POE2 DIVINE MAP BULUCU
 
+![POE2 Divine Map Scanner](readme.png)
+
 Bu uygulama, Path of Exile 2 oyununda haritaları (water maps) otomatik olarak tespit eden bir araçtır. Oyun içerisinde mouse imleci üzerindeki harita isimlerini okuyarak, değerli su haritalarını gerçek zamanlı olarak tanır ve görsel olarak işaretler.
 
 ## 🎮 Özellikler
